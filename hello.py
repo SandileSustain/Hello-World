@@ -1,3 +1,5 @@
  name = 'Sandile'
  surname = 'Mavimbela'
- print('Hello, World! from ',name)
+ fullName = surname+' '+name
+ for i in range(5):
+  print('Hello, World! from ',fullName)  ##This is just for practise nothing crc...
